@@ -3,9 +3,11 @@
 A desktop application built with *Java Swing* and *MySQL* to manage hostel students, rooms, fees and employees in one place.
 
 ## 📸 Screenshots
-Login page
-Home page
-Add New Student
+## 📸 Screenshots
+
+![Login](Login%20page.jpeg)
+![Home](Home%20page.jpeg)
+![New Student](New%20Student.jpeg)
 
 ## ✨ Features
 
